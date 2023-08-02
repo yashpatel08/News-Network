@@ -6,16 +6,16 @@ import { HashRouter as Router } from 'react-router-dom';
 import {createRoot} from 'react-dom/client';
 const container = document.getElementById('root');
 const root=createRoot(container);
-// root.render(<React.StrictMode>
-//   <App />
-// </React.StrictMode>)
+root.render(<React.StrictMode>
+  <App />
+</React.StrictMode>)
 
-ReactDOM.render(
-  <Router>
-    <App />
-  </Router>,
-  document.getElementById('root')
-);
+// ReactDOM.render(
+//   <Router>
+//     <App />
+//   </Router>,
+//   document.getElementById('root')
+// );
 
 
 // ReactDOM.render(

@@ -1,5 +1,5 @@
 {
-  "homepage": "https://yashpatel08.github.io/News-Network",
+  "homepage": "https://github.com/yashpatel08/News-Network",
   "name": "newsapp",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^5.3.4",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^2.1.3",
     "react-top-loading-bar": "^2.3.1",
     "web-vitals": "^2.1.4"
   },

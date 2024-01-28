@@ -88,9 +88,3 @@ In the editor, replace YOUR_NEWS_API_KEY with your actual API key, then save and
 
 # Technologies Used
 - React.js: Front-end library for building user interfaces.
-  
-- Node.js: JavaScript runtime for server-side development.
-  
-- Express.js: Web application framework for Node.js.
-  
-- MongoDB: NoSQL database for storing news articles.

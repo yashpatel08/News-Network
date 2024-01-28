@@ -8,7 +8,7 @@ News Network is a web application that provides a curated collection of daily ne
 
 Check out our video demo on YouTube to see News Network in action:
 
-https://youtu.be/<VBIMpdVDJtA>
+https://youtu.be/watch?v=<VBIMpdVDJtA>
 
 ## Features
 
